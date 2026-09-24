@@ -1,0 +1,17 @@
+title: "HUMANIRE"
+description: "HUMAN-centered design and ergonomics for Industrial REconfigurable systems"
+url: ""
+baseurl: ""
+lang: "en"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - project.md
+  - consortium.md
+  - work-packages.md
+  - news.md
+  - publications.md
+  - contact.md

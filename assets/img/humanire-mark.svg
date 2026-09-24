@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-labelledby="title desc">
+<title id="title">HUMANIRE</title>
+<desc id="desc">Abstract human-centred XR and industrial systems mark</desc>
+<rect width="360" height="120" rx="20" fill="#172A3A"/>
+<circle cx="58" cy="60" r="28" fill="none" stroke="#49C6C9" stroke-width="8"/>
+<circle cx="58" cy="60" r="9" fill="#B7D94B"/>
+<path d="M58 32 C83 32 101 44 112 60 C101 76 83 88 58 88" fill="none" stroke="#49C6C9" stroke-width="6"/>
+<path d="M58 32 C43 43 35 51 35 60 C35 69 43 77 58 88" fill="none" stroke="#B7D94B" stroke-width="6"/>
+<path d="M88 60 H135" stroke="#B7D94B" stroke-width="6" stroke-linecap="round"/>
+<text x="150" y="68" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="2" fill="#FFFFFF">HUMANIRE</text>
+</svg>
