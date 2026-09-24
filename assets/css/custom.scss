@@ -1,5 +1,115 @@
 ---
 ---
 
-@import "minima";
-@import "style";
+body {
+  background: #F5F7F4;
+  color: #17202A;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.site-header {
+  border-top: 4px solid #167D8D;
+}
+
+.site-title,
+.site-title:visited {
+  color: #172A3A;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: #172A3A;
+}
+
+a {
+  color: #167D8D;
+}
+
+a:hover {
+  color: #0F5C68;
+}
+
+.page-content {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.hero {
+  padding: 3rem 0;
+}
+
+.hero h1 {
+  font-size: 3.2rem;
+  line-height: 1.05;
+  margin-bottom: 0.75rem;
+  color: #172A3A;
+}
+
+.hero .tagline {
+  font-size: 1.35rem;
+  color: #167D8D;
+  max-width: 800px;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: #172A3A;
+  color: white;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.section-title {
+  color: #172A3A;
+  margin-top: 2.5rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: white;
+  border: 1px solid #DDE4E0;
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 2px 8px rgba(23, 42, 58, 0.05);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #167D8D;
+}
+
+.callout {
+  border-left: 4px solid #B7D94B;
+  background: white;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid #DDE4E0;
+  background: #172A3A;
+  color: #F5F7F4;
+}
+
+.site-footer a {
+  color: #49C6C9;
+}
+
+img.logo {
+  max-width: 280px;
+}
