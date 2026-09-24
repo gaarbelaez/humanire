@@ -55,4 +55,3 @@ The project is conducted through close collaboration between research laboratori
 | **Research themes** | XR · ergonomics · human-centred design · reconfigurable manufacturing · interoperability |
 | **Industrial validation** | Two industrial proof-of-concept contexts |
 
-> This website presents a public overview of the project. It intentionally does not reproduce the detailed proposal, budget, internal planning, risk analysis or confidential industrial information.

@@ -1,7 +1,8 @@
 title: "HUMANIRE"
 description: "HUMAN-centered design and ergonomics for Industrial REconfigurable systems"
 url: ""
-baseurl: ""
+baseurl: "/humanire"
+repository: "gaarbelaez/humanire"
 lang: "en"
 markdown: kramdown
 theme: minima
