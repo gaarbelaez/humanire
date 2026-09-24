@@ -5,7 +5,7 @@ baseurl: "/humanire"
 repository: "gaarbelaez/humanire"
 lang: "en"
 markdown: kramdown
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
