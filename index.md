@@ -3,9 +3,7 @@ layout: home
 title: "HUMANIRE"
 ---
 
-# HUMANIRE
-
-## Human-centred design and ergonomics for industrial reconfigurable systems
+# Human-centred design and ergonomics for industrial reconfigurable systems
 
 **HUMANIRE** is a 48-month research project focused on integrating **Extended Reality (XR)** into the design and ergonomic validation of **reconfigurable manufacturing systems**, with particular attention to the needs of SMEs.
 
@@ -47,11 +45,10 @@ The project is conducted through close collaboration between research laboratori
 
 ### Project at a glance
 
-| | |
-|---|---|
-| **Duration** | 48 months |
-| **Funding** | ANR · AAPG 2026 · PRCE |
-| **Scientific coordinator** | Giovanny Arbelaez Garces · ICube, Université de Strasbourg |
-| **Research themes** | XR · ergonomics · human-centred design · reconfigurable manufacturing · interoperability |
-| **Industrial validation** | Two industrial proof-of-concept contexts |
-
+| Item | Details |
+|:---|:---|
+| Duration | 48 months |
+| Funding | ANR · AAPG 2026 · PRCE |
+| Scientific coordinator | Giovanny Arbelaez Garces · ICube, Université de Strasbourg |
+| Research themes | XR · ergonomics · human-centred design · reconfigurable manufacturing · interoperability |
+| Industrial validation | Two industrial proof-of-concept contexts |
